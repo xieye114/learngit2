@@ -7,12 +7,12 @@ echo $qq + 1;
 echo $qq + 12;
 echo $qq + 12;
 
-
+55
 echo 22;
 
 function a($aa){
     $a =3;
-
+44
 
 }
 function a3(){
